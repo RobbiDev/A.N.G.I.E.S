@@ -11,7 +11,7 @@ Explore the hardware and software components that was used in this project.
 
 🛠️ Hardware:
 - [UCTRONICS Upgraded Complete Enclosure for Raspberry Pi Cluster](https://www.amazon.com/UCTRONICS-Upgraded-Enclosure-Raspberry-Removable/dp/B09JNHKL2N/ref=asc_df_B09JNHKL2N/?tag=hyprod-20&linkCode=df0&hvadid=647248209079&hvpos=&hvnetw=g&hvrand=9765298955537551123&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009639&hvtargid=pla-1578514941527&psc=1)
-- [4 Short USB Type-C Cables](https://www.amazon.com/dp/B08LL1SVZD?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [6 inch Short, USB Type-c, 5 Pack](https://www.amazon.com/dp/B08LL1SVZD?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Cable Matters 10Gbps Snagless Cat 6 Ethernet Cable 14 ft](https://www.amazon.com/dp/B0B57QKJ1D?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [4K HDMI Switch 4x1](https://www.amazon.com/dp/B08MPQW6TX?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [BYEASY USB Hub, USB Splitter](https://www.amazon.com/dp/B0B1MLZG3W?psc=1&ref=ppx_yo2ov_dt_b_product_details)
@@ -19,3 +19,4 @@ Explore the hardware and software components that was used in this project.
 - [TP-Link 4-Port PoE Switch](https://www.amazon.com/TP-Link-Compliant-Shielded-Optimization-TL-SG1005P/dp/B076HZFY3F/ref=sr_1_1_sspa?crid=15ARV479P2RXY&keywords=4+port+poe+switch&qid=1699933429&sprefix=4+port+P%2Caps%2C83&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - 
 🖥️ Software:
+- 
